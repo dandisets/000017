@@ -1,41 +1,2381 @@
 [
-"sub-Cori/sub-Cori_ses-20161214T120000.nwb",
-"sub-Cori/sub-Cori_ses-20161217T120000.nwb",
-"sub-Cori/sub-Cori_ses-20161218T120000.nwb",
-"sub-Forssmann/sub-Forssmann_ses-20171101T120000.nwb",
-"sub-Forssmann/sub-Forssmann_ses-20171102T120000.nwb",
-"sub-Forssmann/sub-Forssmann_ses-20171104T120000.nwb",
-"sub-Forssmann/sub-Forssmann_ses-20171105T120000.nwb",
-"sub-Hench/sub-Hench_ses-20170615T120000.nwb",
-"sub-Hench/sub-Hench_ses-20170616T120000.nwb",
-"sub-Hench/sub-Hench_ses-20170617T120000.nwb",
-"sub-Hench/sub-Hench_ses-20170618T120000.nwb",
-"sub-Lederberg/sub-Lederberg_ses-20171205T120000.nwb",
-"sub-Lederberg/sub-Lederberg_ses-20171206T120000.nwb",
-"sub-Lederberg/sub-Lederberg_ses-20171207T120000.nwb",
-"sub-Lederberg/sub-Lederberg_ses-20171208T120000.nwb",
-"sub-Lederberg/sub-Lederberg_ses-20171209T120000.nwb",
-"sub-Lederberg/sub-Lederberg_ses-20171210T120000.nwb",
-"sub-Lederberg/sub-Lederberg_ses-20171211T120000.nwb",
-"sub-Moniz/sub-Moniz_ses-20170515T120000.nwb",
-"sub-Moniz/sub-Moniz_ses-20170516T120000.nwb",
-"sub-Moniz/sub-Moniz_ses-20170518T120000.nwb",
-"sub-Muller/sub-Muller_ses-20170107T120000.nwb",
-"sub-Muller/sub-Muller_ses-20170108T120000.nwb",
-"sub-Muller/sub-Muller_ses-20170109T120000.nwb",
-"sub-Radnitz/sub-Radnitz_ses-20170108T120000.nwb",
-"sub-Radnitz/sub-Radnitz_ses-20170109T120000.nwb",
-"sub-Radnitz/sub-Radnitz_ses-20170110T120000.nwb",
-"sub-Radnitz/sub-Radnitz_ses-20170111T120000.nwb",
-"sub-Radnitz/sub-Radnitz_ses-20170112T120000.nwb",
-"sub-Richards/sub-Richards_ses-20171029T120000.nwb",
-"sub-Richards/sub-Richards_ses-20171030T120000.nwb",
-"sub-Richards/sub-Richards_ses-20171031T120000.nwb",
-"sub-Richards/sub-Richards_ses-20171101T120000.nwb",
-"sub-Richards/sub-Richards_ses-20171102T120000.nwb",
-"sub-Tatum/sub-Tatum_ses-20171206T120000.nwb",
-"sub-Tatum/sub-Tatum_ses-20171207T120000.nwb",
-"sub-Tatum/sub-Tatum_ses-20171208T120000.nwb",
-"sub-Tatum/sub-Tatum_ses-20171209T120000.nwb",
-"sub-Theiler/sub-Theiler_ses-20171011T120000.nwb"
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:31:31.976000+00:00",
+"mtime":
+"2020-03-19T16:28:31.806822-04:00",
+"size":
+311814662
+},
+"girder":
+{
+"id":
+"5e73d6a4368d3c79a8006ba9"
+},
+"metadata":
+{
+"age":
+"77 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"teto-g6s x camk-tta",
+"identifier":
+"cori_2016-12-14",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2016-12-14T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"cori",
+"uploaded_datetime":
+"2020-03-19T16:31:32.334801-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.806822-04:00",
+"uploaded_nwb_object_id":
+"f9d101b7-2424-450b-9826-78367d4d4789",
+"uploaded_size":
+311814662
+},
+"modified":
+"2020-03-19 16:28:31.806822-04:00",
+"name":
+"sub-Cori_ses-20161214T120000.nwb",
+"path":
+"/sub-Cori/sub-Cori_ses-20161214T120000.nwb",
+"size":
+311814662,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:31:41.925000+00:00",
+"mtime":
+"2020-03-19T16:28:31.810822-04:00",
+"size":
+332879362
+},
+"girder":
+{
+"id":
+"5e73d6ae368d3c79a8006bb3"
+},
+"metadata":
+{
+"age":
+"84 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"teto-g6s x camk-tta",
+"identifier":
+"cori_2016-12-17",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2016-12-17T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"cori",
+"uploaded_datetime":
+"2020-03-19T16:31:42.287234-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.810822-04:00",
+"uploaded_nwb_object_id":
+"ffe94d1e-7716-4be8-9501-2febcf17b0eb",
+"uploaded_size":
+332879362
+},
+"modified":
+"2020-03-19 16:28:31.810822-04:00",
+"name":
+"sub-Cori_ses-20161217T120000.nwb",
+"path":
+"/sub-Cori/sub-Cori_ses-20161217T120000.nwb",
+"size":
+332879362,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:11.753000+00:00",
+"mtime":
+"2020-03-19T16:28:31.810822-04:00",
+"size":
+573267819
+},
+"girder":
+{
+"id":
+"5e73d6cb368d3c79a8006bbc"
+},
+"metadata":
+{
+"age":
+"84 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"teto-g6s x camk-tta",
+"identifier":
+"cori_2016-12-18",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2016-12-18T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"cori",
+"uploaded_datetime":
+"2020-03-19T16:32:12.124706-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.810822-04:00",
+"uploaded_nwb_object_id":
+"fb76cbd5-8344-4d29-802b-3ad83d8854fa",
+"uploaded_size":
+573267819
+},
+"modified":
+"2020-03-19 16:28:31.810822-04:00",
+"name":
+"sub-Cori_ses-20161218T120000.nwb",
+"path":
+"/sub-Cori/sub-Cori_ses-20161218T120000.nwb",
+"size":
+573267819,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:31:45.841000+00:00",
+"mtime":
+"2020-03-19T16:28:31.810822-04:00",
+"size":
+422784529
+},
+"girder":
+{
+"id":
+"5e73d6b1368d3c79a8006bb6"
+},
+"metadata":
+{
+"age":
+"182 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"forssmann_2017-11-01",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-11-01T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"forssmann",
+"uploaded_datetime":
+"2020-03-19T16:31:46.184220-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.810822-04:00",
+"uploaded_nwb_object_id":
+"6774ac70-b0df-414b-b831-ea3ace076287",
+"uploaded_size":
+422784529
+},
+"modified":
+"2020-03-19 16:28:31.810822-04:00",
+"name":
+"sub-Forssmann_ses-20171101T120000.nwb",
+"path":
+"/sub-Forssmann/sub-Forssmann_ses-20171101T120000.nwb",
+"size":
+422784529,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:31:37.909000+00:00",
+"mtime":
+"2020-03-19T16:28:31.814822-04:00",
+"size":
+347258464
+},
+"girder":
+{
+"id":
+"5e73d6aa368d3c79a8006baf"
+},
+"metadata":
+{
+"age":
+"182 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"forssmann_2017-11-02",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-11-02T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"forssmann",
+"uploaded_datetime":
+"2020-03-19T16:31:38.435342-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.814822-04:00",
+"uploaded_nwb_object_id":
+"9400b4df-f5c9-4154-b7aa-77582179b91b",
+"uploaded_size":
+347258464
+},
+"modified":
+"2020-03-19 16:28:31.814822-04:00",
+"name":
+"sub-Forssmann_ses-20171102T120000.nwb",
+"path":
+"/sub-Forssmann/sub-Forssmann_ses-20171102T120000.nwb",
+"size":
+347258464,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:31:31.513000+00:00",
+"mtime":
+"2020-03-19T16:28:31.814822-04:00",
+"size":
+310773089
+},
+"girder":
+{
+"id":
+"5e73d6a3368d3c79a8006ba7"
+},
+"metadata":
+{
+"age":
+"189 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"forssmann_2017-11-04",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-11-04T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"forssmann",
+"uploaded_datetime":
+"2020-03-19T16:31:32.064115-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.814822-04:00",
+"uploaded_nwb_object_id":
+"fc98e176-dc5a-437d-878d-d56a53a9c493",
+"uploaded_size":
+310773089
+},
+"modified":
+"2020-03-19 16:28:31.814822-04:00",
+"name":
+"sub-Forssmann_ses-20171104T120000.nwb",
+"path":
+"/sub-Forssmann/sub-Forssmann_ses-20171104T120000.nwb",
+"size":
+310773089,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:31:29.654000+00:00",
+"mtime":
+"2020-03-19T16:28:31.814822-04:00",
+"size":
+280983334
+},
+"girder":
+{
+"id":
+"5e73d6a1368d3c79a8006ba6"
+},
+"metadata":
+{
+"age":
+"189 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"forssmann_2017-11-05",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-11-05T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"forssmann",
+"uploaded_datetime":
+"2020-03-19T16:31:30.064354-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.814822-04:00",
+"uploaded_nwb_object_id":
+"e5e2ca33-7fa6-4882-bdc4-e24864e0893e",
+"uploaded_size":
+280983334
+},
+"modified":
+"2020-03-19 16:28:31.814822-04:00",
+"name":
+"sub-Forssmann_ses-20171105T120000.nwb",
+"path":
+"/sub-Forssmann/sub-Forssmann_ses-20171105T120000.nwb",
+"size":
+280983334,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:24.218000+00:00",
+"mtime":
+"2020-03-19T16:28:31.818822-04:00",
+"size":
+615890792
+},
+"girder":
+{
+"id":
+"5e73d6d8368d3c79a8006bcb"
+},
+"metadata":
+{
+"age":
+"217 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"teto-g6s x camk-tta",
+"identifier":
+"hench_2017-06-15",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-06-15T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"hench",
+"uploaded_datetime":
+"2020-03-19T16:32:25.597169-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.818822-04:00",
+"uploaded_nwb_object_id":
+"2e781912-eb07-4db8-84b3-9f8c0661c130",
+"uploaded_size":
+615890792
+},
+"modified":
+"2020-03-19 16:28:31.818822-04:00",
+"name":
+"sub-Hench_ses-20170615T120000.nwb",
+"path":
+"/sub-Hench/sub-Hench_ses-20170615T120000.nwb",
+"size":
+615890792,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:00.080000+00:00",
+"mtime":
+"2020-03-19T16:28:31.818822-04:00",
+"size":
+515855832
+},
+"girder":
+{
+"id":
+"5e73d6c0368d3c79a8006bb9"
+},
+"metadata":
+{
+"age":
+"224 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"teto-g6s x camk-tta",
+"identifier":
+"hench_2017-06-16",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-06-16T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"hench",
+"uploaded_datetime":
+"2020-03-19T16:32:00.516007-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.818822-04:00",
+"uploaded_nwb_object_id":
+"788d4d91-5f26-4cfd-8e8f-eca6c7d9ab91",
+"uploaded_size":
+515855832
+},
+"modified":
+"2020-03-19 16:28:31.818822-04:00",
+"name":
+"sub-Hench_ses-20170616T120000.nwb",
+"path":
+"/sub-Hench/sub-Hench_ses-20170616T120000.nwb",
+"size":
+515855832,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:15.164000+00:00",
+"mtime":
+"2020-03-19T16:28:31.818822-04:00",
+"size":
+596786816
+},
+"girder":
+{
+"id":
+"5e73d6cf368d3c79a8006bbf"
+},
+"metadata":
+{
+"age":
+"224 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"teto-g6s x camk-tta",
+"identifier":
+"hench_2017-06-17",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-06-17T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"hench",
+"uploaded_datetime":
+"2020-03-19T16:32:15.777264-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.818822-04:00",
+"uploaded_nwb_object_id":
+"c2d01262-32e4-489a-890c-9f44a14b2036",
+"uploaded_size":
+596786816
+},
+"modified":
+"2020-03-19 16:28:31.818822-04:00",
+"name":
+"sub-Hench_ses-20170617T120000.nwb",
+"path":
+"/sub-Hench/sub-Hench_ses-20170617T120000.nwb",
+"size":
+596786816,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:23.179000+00:00",
+"mtime":
+"2020-03-19T16:28:31.822822-04:00",
+"size":
+394403936
+},
+"girder":
+{
+"id":
+"5e73d6d7368d3c79a8006bc9"
+},
+"metadata":
+{
+"age":
+"224 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"teto-g6s x camk-tta",
+"identifier":
+"hench_2017-06-18",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-06-18T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"hench",
+"uploaded_datetime":
+"2020-03-19T16:32:23.752872-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.822822-04:00",
+"uploaded_nwb_object_id":
+"a82ae160-873d-43ac-bca2-efb8f88e34f4",
+"uploaded_size":
+394403936
+},
+"modified":
+"2020-03-19 16:28:31.822822-04:00",
+"name":
+"sub-Hench_ses-20170618T120000.nwb",
+"path":
+"/sub-Hench/sub-Hench_ses-20170618T120000.nwb",
+"size":
+394403936,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:22.656000+00:00",
+"mtime":
+"2020-03-19T16:28:31.822822-04:00",
+"size":
+372211599
+},
+"girder":
+{
+"id":
+"5e73d6d6368d3c79a8006bc7"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"lederberg_2017-12-05",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-05T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"lederberg",
+"uploaded_datetime":
+"2020-03-19T16:32:23.279585-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.822822-04:00",
+"uploaded_nwb_object_id":
+"c4e789fa-54ad-46f5-a08c-b56ec36cdcfd",
+"uploaded_size":
+372211599
+},
+"modified":
+"2020-03-19 16:28:31.822822-04:00",
+"name":
+"sub-Lederberg_ses-20171205T120000.nwb",
+"path":
+"/sub-Lederberg/sub-Lederberg_ses-20171205T120000.nwb",
+"size":
+372211599,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:04.479000+00:00",
+"mtime":
+"2020-03-19T16:28:31.822822-04:00",
+"size":
+619346872
+},
+"girder":
+{
+"id":
+"5e73d700368d3c79a8006bdd"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"lederberg_2017-12-06",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-06T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"lederberg",
+"uploaded_datetime":
+"2020-03-19T16:33:04.954790-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.822822-04:00",
+"uploaded_nwb_object_id":
+"9bdbd1f5-5e99-4be0-85d4-17cf08025779",
+"uploaded_size":
+619346872
+},
+"modified":
+"2020-03-19 16:28:31.822822-04:00",
+"name":
+"sub-Lederberg_ses-20171206T120000.nwb",
+"path":
+"/sub-Lederberg/sub-Lederberg_ses-20171206T120000.nwb",
+"size":
+619346872,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:16.098000+00:00",
+"mtime":
+"2020-03-19T16:28:31.826822-04:00",
+"size":
+286488802
+},
+"girder":
+{
+"id":
+"5e73d6d0368d3c79a8006bc0"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"lederberg_2017-12-07",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-07T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"lederberg",
+"uploaded_datetime":
+"2020-03-19T16:32:16.871650-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.826822-04:00",
+"uploaded_nwb_object_id":
+"ace2ce2d-9f10-46a6-aa08-0d1c7d3896c8",
+"uploaded_size":
+286488802
+},
+"modified":
+"2020-03-19 16:28:31.826822-04:00",
+"name":
+"sub-Lederberg_ses-20171207T120000.nwb",
+"path":
+"/sub-Lederberg/sub-Lederberg_ses-20171207T120000.nwb",
+"size":
+286488802,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:38.979000+00:00",
+"mtime":
+"2020-03-19T16:28:31.826822-04:00",
+"size":
+394827803
+},
+"girder":
+{
+"id":
+"5e73d6e7368d3c79a8006bd7"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"lederberg_2017-12-08",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-08T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"lederberg",
+"uploaded_datetime":
+"2020-03-19T16:32:39.305920-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.826822-04:00",
+"uploaded_nwb_object_id":
+"3e88cc80-4add-452a-9006-72621b5cdce5",
+"uploaded_size":
+394827803
+},
+"modified":
+"2020-03-19 16:28:31.826822-04:00",
+"name":
+"sub-Lederberg_ses-20171208T120000.nwb",
+"path":
+"/sub-Lederberg/sub-Lederberg_ses-20171208T120000.nwb",
+"size":
+394827803,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:20.646000+00:00",
+"mtime":
+"2020-03-19T16:28:31.826822-04:00",
+"size":
+267104144
+},
+"girder":
+{
+"id":
+"5e73d6d4368d3c79a8006bc6"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"lederberg_2017-12-09",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-09T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"lederberg",
+"uploaded_datetime":
+"2020-03-19T16:32:21.132696-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.826822-04:00",
+"uploaded_nwb_object_id":
+"ef06e652-031c-4ff3-be97-3cbd9e9b3588",
+"uploaded_size":
+267104144
+},
+"modified":
+"2020-03-19 16:28:31.826822-04:00",
+"name":
+"sub-Lederberg_ses-20171209T120000.nwb",
+"path":
+"/sub-Lederberg/sub-Lederberg_ses-20171209T120000.nwb",
+"size":
+267104144,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:32:28.987000+00:00",
+"mtime":
+"2020-03-19T16:28:31.830822-04:00",
+"size":
+216191784
+},
+"girder":
+{
+"id":
+"5e73d6dd368d3c79a8006bcc"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"lederberg_2017-12-10",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-10T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"lederberg",
+"uploaded_datetime":
+"2020-03-19T16:32:29.603503-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.830822-04:00",
+"uploaded_nwb_object_id":
+"957d1ebd-19fd-47c4-95ae-c71a52d26b3e",
+"uploaded_size":
+216191784
+},
+"modified":
+"2020-03-19 16:28:31.830822-04:00",
+"name":
+"sub-Lederberg_ses-20171210T120000.nwb",
+"path":
+"/sub-Lederberg/sub-Lederberg_ses-20171210T120000.nwb",
+"size":
+216191784,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:00.018000+00:00",
+"mtime":
+"2020-03-19T16:28:31.830822-04:00",
+"size":
+355026576
+},
+"girder":
+{
+"id":
+"5e73d6fc368d3c79a8006bda"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"lederberg_2017-12-11",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-11T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"lederberg",
+"uploaded_datetime":
+"2020-03-19T16:33:00.368596-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.830822-04:00",
+"uploaded_nwb_object_id":
+"13311824-be50-47ed-93a8-dbf2a5ef0d00",
+"uploaded_size":
+355026576
+},
+"modified":
+"2020-03-19 16:28:31.830822-04:00",
+"name":
+"sub-Lederberg_ses-20171211T120000.nwb",
+"path":
+"/sub-Lederberg/sub-Lederberg_ses-20171211T120000.nwb",
+"size":
+355026576,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:21.219000+00:00",
+"mtime":
+"2020-03-19T16:28:31.834822-04:00",
+"size":
+416303544
+},
+"girder":
+{
+"id":
+"5e73d711368d3c79a8006bea"
+},
+"metadata":
+{
+"age":
+"210 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"ai95 x vglut1-cre",
+"identifier":
+"moniz_2017-05-15",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-05-15T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"moniz",
+"uploaded_datetime":
+"2020-03-19T16:33:21.579535-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.834822-04:00",
+"uploaded_nwb_object_id":
+"57eea02a-c7d5-4d6d-9679-a938f6e7a0bd",
+"uploaded_size":
+416303544
+},
+"modified":
+"2020-03-19 16:28:31.834822-04:00",
+"name":
+"sub-Moniz_ses-20170515T120000.nwb",
+"path":
+"/sub-Moniz/sub-Moniz_ses-20170515T120000.nwb",
+"size":
+416303544,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:22.404000+00:00",
+"mtime":
+"2020-03-19T16:28:31.834822-04:00",
+"size":
+429497787
+},
+"girder":
+{
+"id":
+"5e73d712368d3c79a8006beb"
+},
+"metadata":
+{
+"age":
+"210 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"ai95 x vglut1-cre",
+"identifier":
+"moniz_2017-05-16",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-05-16T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"moniz",
+"uploaded_datetime":
+"2020-03-19T16:33:23.087688-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.834822-04:00",
+"uploaded_nwb_object_id":
+"0a700b38-a5d3-487a-aff3-8c5dc69e30d9",
+"uploaded_size":
+429497787
+},
+"modified":
+"2020-03-19 16:28:31.834822-04:00",
+"name":
+"sub-Moniz_ses-20170516T120000.nwb",
+"path":
+"/sub-Moniz/sub-Moniz_ses-20170516T120000.nwb",
+"size":
+429497787,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:24.538000+00:00",
+"mtime":
+"2020-03-19T16:28:31.834822-04:00",
+"size":
+366732376
+},
+"girder":
+{
+"id":
+"5e73d714368d3c79a8006bed"
+},
+"metadata":
+{
+"age":
+"210 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"ai95 x vglut1-cre",
+"identifier":
+"moniz_2017-05-18",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-05-18T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"moniz",
+"uploaded_datetime":
+"2020-03-19T16:33:25.406735-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.834822-04:00",
+"uploaded_nwb_object_id":
+"57af9457-4e13-40ce-a711-ca3241b548f4",
+"uploaded_size":
+366732376
+},
+"modified":
+"2020-03-19 16:28:31.834822-04:00",
+"name":
+"sub-Moniz_ses-20170518T120000.nwb",
+"path":
+"/sub-Moniz/sub-Moniz_ses-20170518T120000.nwb",
+"size":
+366732376,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:45.251000+00:00",
+"mtime":
+"2020-03-19T16:28:31.838822-04:00",
+"size":
+443613734
+},
+"girder":
+{
+"id":
+"5e73d729368d3c79a8006bf7"
+},
+"metadata":
+{
+"age":
+"119 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"ai95 x vglut1-cre",
+"identifier":
+"muller_2017-01-07",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-01-07T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"muller",
+"uploaded_datetime":
+"2020-03-19T16:33:45.597171-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.838822-04:00",
+"uploaded_nwb_object_id":
+"6cbbc05b-143e-40bb-9666-8631ccec1ef6",
+"uploaded_size":
+443613734
+},
+"modified":
+"2020-03-19 16:28:31.838822-04:00",
+"name":
+"sub-Muller_ses-20170107T120000.nwb",
+"path":
+"/sub-Muller/sub-Muller_ses-20170107T120000.nwb",
+"size":
+443613734,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:16.252000+00:00",
+"mtime":
+"2020-03-19T16:28:31.838822-04:00",
+"size":
+295302320
+},
+"girder":
+{
+"id":
+"5e73d70c368d3c79a8006be3"
+},
+"metadata":
+{
+"age":
+"119 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"ai95 x vglut1-cre",
+"identifier":
+"muller_2017-01-08",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-01-08T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"muller",
+"uploaded_datetime":
+"2020-03-19T16:33:16.614983-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.838822-04:00",
+"uploaded_nwb_object_id":
+"1a4307f8-9f9a-4803-9d2b-269357246c97",
+"uploaded_size":
+295302320
+},
+"modified":
+"2020-03-19 16:28:31.838822-04:00",
+"name":
+"sub-Muller_ses-20170108T120000.nwb",
+"path":
+"/sub-Muller/sub-Muller_ses-20170108T120000.nwb",
+"size":
+295302320,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:09.335000+00:00",
+"mtime":
+"2020-03-19T16:28:31.838822-04:00",
+"size":
+272878128
+},
+"girder":
+{
+"id":
+"5e73d705368d3c79a8006be0"
+},
+"metadata":
+{
+"age":
+"119 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"ai95 x vglut1-cre",
+"identifier":
+"muller_2017-01-09",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-01-09T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"muller",
+"uploaded_datetime":
+"2020-03-19T16:33:09.703483-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.838822-04:00",
+"uploaded_nwb_object_id":
+"6e406fe5-5b9f-4d97-bd22-0ca7209ad333",
+"uploaded_size":
+272878128
+},
+"modified":
+"2020-03-19 16:28:31.838822-04:00",
+"name":
+"sub-Muller_ses-20170109T120000.nwb",
+"path":
+"/sub-Muller/sub-Muller_ses-20170109T120000.nwb",
+"size":
+272878128,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:40.180000+00:00",
+"mtime":
+"2020-03-19T16:28:31.838822-04:00",
+"size":
+385048414
+},
+"girder":
+{
+"id":
+"5e73d724368d3c79a8006bf3"
+},
+"metadata":
+{
+"age":
+"140 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"snap25-gcamp6s",
+"identifier":
+"radnitz_2017-01-08",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-01-08T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"radnitz",
+"uploaded_datetime":
+"2020-03-19T16:33:40.580631-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.838822-04:00",
+"uploaded_nwb_object_id":
+"ab5ace98-f71b-4f4b-8146-4bacfd88f5fe",
+"uploaded_size":
+385048414
+},
+"modified":
+"2020-03-19 16:28:31.838822-04:00",
+"name":
+"sub-Radnitz_ses-20170108T120000.nwb",
+"path":
+"/sub-Radnitz/sub-Radnitz_ses-20170108T120000.nwb",
+"size":
+385048414,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:33:17.606000+00:00",
+"mtime":
+"2020-03-19T16:28:31.842822-04:00",
+"size":
+283392876
+},
+"girder":
+{
+"id":
+"5e73d70d368d3c79a8006be4"
+},
+"metadata":
+{
+"age":
+"140 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"snap25-gcamp6s",
+"identifier":
+"radnitz_2017-01-09",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-01-09T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"radnitz",
+"uploaded_datetime":
+"2020-03-19T16:33:18.276122-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.842822-04:00",
+"uploaded_nwb_object_id":
+"d010bef2-5967-4007-8ede-c0d409b0abed",
+"uploaded_size":
+283392876
+},
+"modified":
+"2020-03-19 16:28:31.842822-04:00",
+"name":
+"sub-Radnitz_ses-20170109T120000.nwb",
+"path":
+"/sub-Radnitz/sub-Radnitz_ses-20170109T120000.nwb",
+"size":
+283392876,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:18.010000+00:00",
+"mtime":
+"2020-03-19T16:28:31.842822-04:00",
+"size":
+498000376
+},
+"girder":
+{
+"id":
+"5e73d74a368d3c79a8006c08"
+},
+"metadata":
+{
+"age":
+"140 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"snap25-gcamp6s",
+"identifier":
+"radnitz_2017-01-10",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-01-10T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"radnitz",
+"uploaded_datetime":
+"2020-03-19T16:34:18.371139-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.842822-04:00",
+"uploaded_nwb_object_id":
+"819b82be-3c90-449f-946d-cfa10a91fe7b",
+"uploaded_size":
+498000376
+},
+"modified":
+"2020-03-19 16:28:31.842822-04:00",
+"name":
+"sub-Radnitz_ses-20170110T120000.nwb",
+"path":
+"/sub-Radnitz/sub-Radnitz_ses-20170110T120000.nwb",
+"size":
+498000376,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:05.009000+00:00",
+"mtime":
+"2020-03-19T16:28:31.842822-04:00",
+"size":
+346170844
+},
+"girder":
+{
+"id":
+"5e73d73d368d3c79a8006bfd"
+},
+"metadata":
+{
+"age":
+"140 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"snap25-gcamp6s",
+"identifier":
+"radnitz_2017-01-11",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-01-11T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"radnitz",
+"uploaded_datetime":
+"2020-03-19T16:34:05.409780-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.842822-04:00",
+"uploaded_nwb_object_id":
+"c907aff1-c766-4e2e-848c-8bfeaeacf03b",
+"uploaded_size":
+346170844
+},
+"modified":
+"2020-03-19 16:28:31.842822-04:00",
+"name":
+"sub-Radnitz_ses-20170111T120000.nwb",
+"path":
+"/sub-Radnitz/sub-Radnitz_ses-20170111T120000.nwb",
+"size":
+346170844,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:05.346000+00:00",
+"mtime":
+"2020-03-19T16:28:31.846822-04:00",
+"size":
+358289768
+},
+"girder":
+{
+"id":
+"5e73d73d368d3c79a8006bfe"
+},
+"metadata":
+{
+"age":
+"140 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"snap25-gcamp6s",
+"identifier":
+"radnitz_2017-01-12",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-01-12T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"radnitz",
+"uploaded_datetime":
+"2020-03-19T16:34:05.772281-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.846822-04:00",
+"uploaded_nwb_object_id":
+"01912974-dc40-4fc0-8b3e-df445e8340fe",
+"uploaded_size":
+358289768
+},
+"modified":
+"2020-03-19 16:28:31.846822-04:00",
+"name":
+"sub-Radnitz_ses-20170112T120000.nwb",
+"path":
+"/sub-Radnitz/sub-Radnitz_ses-20170112T120000.nwb",
+"size":
+358289768,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:11.824000+00:00",
+"mtime":
+"2020-03-19T16:28:31.846822-04:00",
+"size":
+299965420
+},
+"girder":
+{
+"id":
+"5e73d744368d3c79a8006c05"
+},
+"metadata":
+{
+"age":
+"182 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"richards_2017-10-29",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-10-29T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"richards",
+"uploaded_datetime":
+"2020-03-19T16:34:12.192669-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.846822-04:00",
+"uploaded_nwb_object_id":
+"68caa504-91ab-4af4-b7cc-686e0a4dd2fc",
+"uploaded_size":
+299965420
+},
+"modified":
+"2020-03-19 16:28:31.846822-04:00",
+"name":
+"sub-Richards_ses-20171029T120000.nwb",
+"path":
+"/sub-Richards/sub-Richards_ses-20171029T120000.nwb",
+"size":
+299965420,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:14.803000+00:00",
+"mtime":
+"2020-03-19T16:28:31.846822-04:00",
+"size":
+315079362
+},
+"girder":
+{
+"id":
+"5e73d746368d3c79a8006c06"
+},
+"metadata":
+{
+"age":
+"182 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"richards_2017-10-30",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-10-30T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"richards",
+"uploaded_datetime":
+"2020-03-19T16:34:15.145053-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.846822-04:00",
+"uploaded_nwb_object_id":
+"b91372c1-af21-4a2f-b632-21970d51eb61",
+"uploaded_size":
+315079362
+},
+"modified":
+"2020-03-19 16:28:31.846822-04:00",
+"name":
+"sub-Richards_ses-20171030T120000.nwb",
+"path":
+"/sub-Richards/sub-Richards_ses-20171030T120000.nwb",
+"size":
+315079362,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:01.642000+00:00",
+"mtime":
+"2020-03-19T16:28:31.850822-04:00",
+"size":
+204150135
+},
+"girder":
+{
+"id":
+"5e73d739368d3c79a8006bfa"
+},
+"metadata":
+{
+"age":
+"182 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"richards_2017-10-31",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-10-31T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"richards",
+"uploaded_datetime":
+"2020-03-19T16:34:01.980716-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.850822-04:00",
+"uploaded_nwb_object_id":
+"57dd24f9-2312-4f34-b9a3-9c757098e480",
+"uploaded_size":
+204150135
+},
+"modified":
+"2020-03-19 16:28:31.850822-04:00",
+"name":
+"sub-Richards_ses-20171031T120000.nwb",
+"path":
+"/sub-Richards/sub-Richards_ses-20171031T120000.nwb",
+"size":
+204150135,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:15.811000+00:00",
+"mtime":
+"2020-03-19T16:28:31.850822-04:00",
+"size":
+272075696
+},
+"girder":
+{
+"id":
+"5e73d748368d3c79a8006c07"
+},
+"metadata":
+{
+"age":
+"182 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"richards_2017-11-01",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-11-01T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"richards",
+"uploaded_datetime":
+"2020-03-19T16:34:16.202484-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.850822-04:00",
+"uploaded_nwb_object_id":
+"2fac6912-1f63-4c0e-ac57-95edb1c4e747",
+"uploaded_size":
+272075696
+},
+"modified":
+"2020-03-19 16:28:31.850822-04:00",
+"name":
+"sub-Richards_ses-20171101T120000.nwb",
+"path":
+"/sub-Richards/sub-Richards_ses-20171101T120000.nwb",
+"size":
+272075696,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:05.875000+00:00",
+"mtime":
+"2020-03-19T16:28:31.850822-04:00",
+"size":
+298044164
+},
+"girder":
+{
+"id":
+"5e73d73e368d3c79a8006bff"
+},
+"metadata":
+{
+"age":
+"182 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"c57bl/6j",
+"identifier":
+"richards_2017-11-02",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-11-02T12:00:00+00:00",
+"sex":
+"m",
+"species":
+"mus musculus",
+"subject_id":
+"richards",
+"uploaded_datetime":
+"2020-03-19T16:34:06.991013-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.850822-04:00",
+"uploaded_nwb_object_id":
+"2910de48-dca9-4c5f-bbbb-30abdc0a251a",
+"uploaded_size":
+298044164
+},
+"modified":
+"2020-03-19 16:28:31.850822-04:00",
+"name":
+"sub-Richards_ses-20171102T120000.nwb",
+"path":
+"/sub-Richards/sub-Richards_ses-20171102T120000.nwb",
+"size":
+298044164,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:31.598000+00:00",
+"mtime":
+"2020-03-19T16:28:31.854822-04:00",
+"size":
+485782265
+},
+"girder":
+{
+"id":
+"5e73d757368d3c79a8006c0a"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"tatum_2017-12-06",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-06T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"tatum",
+"uploaded_datetime":
+"2020-03-19T16:34:31.935032-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.854822-04:00",
+"uploaded_nwb_object_id":
+"5e1d6cf3-180e-47a0-88f7-2af040618dbe",
+"uploaded_size":
+485782265
+},
+"modified":
+"2020-03-19 16:28:31.854822-04:00",
+"name":
+"sub-Tatum_ses-20171206T120000.nwb",
+"path":
+"/sub-Tatum/sub-Tatum_ses-20171206T120000.nwb",
+"size":
+485782265,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:23.017000+00:00",
+"mtime":
+"2020-03-19T16:28:31.854822-04:00",
+"size":
+342873376
+},
+"girder":
+{
+"id":
+"5e73d74f368d3c79a8006c09"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"tatum_2017-12-07",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-07T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"tatum",
+"uploaded_datetime":
+"2020-03-19T16:34:23.332258-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.854822-04:00",
+"uploaded_nwb_object_id":
+"3bb7b4c7-05b3-463d-a39a-c4203a205147",
+"uploaded_size":
+342873376
+},
+"modified":
+"2020-03-19 16:28:31.854822-04:00",
+"name":
+"sub-Tatum_ses-20171207T120000.nwb",
+"path":
+"/sub-Tatum/sub-Tatum_ses-20171207T120000.nwb",
+"size":
+342873376,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:37.753000+00:00",
+"mtime":
+"2020-03-19T16:28:31.854822-04:00",
+"size":
+439785043
+},
+"girder":
+{
+"id":
+"5e73d75d368d3c79a8006c0d"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"tatum_2017-12-08",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-08T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"tatum",
+"uploaded_datetime":
+"2020-03-19T16:34:38.031818-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.854822-04:00",
+"uploaded_nwb_object_id":
+"e5385f0a-d59b-4f96-ab62-1776c634feb2",
+"uploaded_size":
+439785043
+},
+"modified":
+"2020-03-19 16:28:31.854822-04:00",
+"name":
+"sub-Tatum_ses-20171208T120000.nwb",
+"path":
+"/sub-Tatum/sub-Tatum_ses-20171208T120000.nwb",
+"size":
+439785043,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:35.075000+00:00",
+"mtime":
+"2020-03-19T16:28:31.858822-04:00",
+"size":
+379929985
+},
+"girder":
+{
+"id":
+"5e73d75b368d3c79a8006c0c"
+},
+"metadata":
+{
+"age":
+"105 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"vglut1-cre",
+"identifier":
+"tatum_2017-12-09",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-12-09T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"tatum",
+"uploaded_datetime":
+"2020-03-19T16:34:35.427297-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.858822-04:00",
+"uploaded_nwb_object_id":
+"32cc9cf9-67e1-4a61-b608-54102a62f886",
+"uploaded_size":
+379929985
+},
+"modified":
+"2020-03-19 16:28:31.858822-04:00",
+"name":
+"sub-Tatum_ses-20171209T120000.nwb",
+"path":
+"/sub-Tatum/sub-Tatum_ses-20171209T120000.nwb",
+"size":
+379929985,
+"type":
+"file"
+},
+{
+"attrs":
+{
+"ctime":
+"2020-03-19T20:34:34.208000+00:00",
+"mtime":
+"2020-03-19T16:28:31.858822-04:00",
+"size":
+335774221
+},
+"girder":
+{
+"id":
+"5e73d75a368d3c79a8006c0b"
+},
+"metadata":
+{
+"age":
+"322 days",
+"experiment_description":
+"large-scale neuropixels recordings across brain regions of mice during a head-fixed visual discrimination task. ",
+"genotype":
+"ai95 x vglut1-cre",
+"identifier":
+"theiler_2017-10-11",
+"institution":
+"university college london",
+"lab":
+"the carandini and harris lab",
+"nwb_version":
+"2.1.0",
+"session_description":
+"neuropixels recording during visual discrimination in awake mice.",
+"session_start_time":
+"2017-10-11T12:00:00+00:00",
+"sex":
+"f",
+"species":
+"mus musculus",
+"subject_id":
+"theiler",
+"uploaded_datetime":
+"2020-03-19T16:34:34.503376-04:00",
+"uploaded_mtime":
+"2020-03-19T16:28:31.858822-04:00",
+"uploaded_nwb_object_id":
+"3f7e0f93-12e3-4454-b209-e232c2b8c8ee",
+"uploaded_size":
+335774221
+},
+"modified":
+"2020-03-19 16:28:31.858822-04:00",
+"name":
+"sub-Theiler_ses-20171011T120000.nwb",
+"path":
+"/sub-Theiler/sub-Theiler_ses-20171011T120000.nwb",
+"size":
+335774221,
+"type":
+"file"
+}
 ]
