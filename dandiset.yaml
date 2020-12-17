@@ -30,6 +30,8 @@ keywords:
 - neuropixels
 license: CC-BY-4.0
 name: Distributed coding of choice, action and engagement across the mouse brain
+organism:
+- species: Mus musculus
 publications:
 - identifier: DOI:10.1038/s41586-019-1787-x
   url: https://www.nature.com/articles/s41586-019-1787-x
