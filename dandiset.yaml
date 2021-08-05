@@ -81,7 +81,8 @@ keywords:
 - neuropixels
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000017/versions/draft/assets/
 name: Distributed coding of choice, action and engagement across the mouse brain
 relatedResource:
 - identifier: DOI:10.1038/s41586-019-1787-x
