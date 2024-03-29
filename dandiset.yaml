@@ -42,7 +42,7 @@ assetsSummary:
   - ElectrodeGroup
 citation: Steinmetz, Nicholas; Zatka-Haas, Peter; Carandini, Matteo; Harris, Kenneth;
   Wang, Renee (2024) Distributed coding of choice, action and engagement across the
-  mouse brain (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000017/draft
+  mouse brain (Version 0.240329.1926) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000017/0.240329.1926
 contributor:
 - identifier: 0000-0001-7029-2908
   includeInCitation: true
@@ -78,14 +78,15 @@ dateCreated: '2020-03-19T20:04:34.727000+00:00'
 datePublished: '2024-03-29T19:26:55.755552+00:00'
 description: Data from "Distributed coding of choice, action and engagement across
   the mouse brain" Steinmetz et. al Nature 2019
-id: DANDI:000017/draft
+doi: 10.48324/dandi.000017/0.240329.1926
+id: DANDI:000017/0.240329.1926
 identifier: DANDI:000017
 keywords:
 - neuropixels
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000017/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000017/0.240329.1926/assets.yaml
 name: Distributed coding of choice, action and engagement across the mouse brain
 publishedBy:
   endDate: '2024-03-29T19:26:55.755552+00:00'
@@ -107,5 +108,5 @@ relatedResource:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
-url: https://dandiarchive.org/dandiset/000017/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000017/0.240329.1926
+version: 0.240329.1926
